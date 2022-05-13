@@ -1,6 +1,6 @@
 # Metaviators Network Server
 
-Test setup with AWS backend - linux server runing!
+Test setup with AWS backend - linux server running!
 
 Notes:
 Download and open the project in Unity 2019.4.34f1 LTS. Use 'ParrelSync' to clone the project (unity top menu)
