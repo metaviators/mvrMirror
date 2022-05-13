@@ -1,5 +1,8 @@
-# Shrine Networking Tutorial Project
+# Metaviators Network Server
 
-Code for the Unity + Mirror networking YouTube tutorials: https://www.youtube.com/c/ShrineApp
+Test setup with AWS backend - linux server runing!
 
-For the source of Shrine Wars (a sample multiplayer game built with Mirror), see: https://github.com/ShrineGames/ShrineWars
+Notes:
+Download and open the project in Unity 2019.4.34f1 LTS. Use 'ParrelSync' to clone the project (unity top menu)
+Open the clone in a second editor -- play the project in BOTH editors. Delete 'localhost' entry in each edotor and replace 
+with the IP address sent to your email. Hit 'client' in both editors and use the keyboard arrows to move the cubes, via the serer.
